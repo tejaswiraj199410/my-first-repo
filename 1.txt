@@ -1,2 +1,6 @@
 Hi How are you mlops 1 file 
 how do you doing
+#3 this is feature102 code changes by raju
+#4 Creating and managing AWS Virtual Private Clouds (VPCs) with Terraform involves defining your network infrastructure as code, allowing for automated, repeatable, and version-controlled deployments.
+Core Components of an AWS VPC with Terraform:
+VPC: The fundamental building block, representing an isolated network within AWS. You define its CIDR block (IP address range).
